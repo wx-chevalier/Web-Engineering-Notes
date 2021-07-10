@@ -40,7 +40,11 @@
 
 有趣的是，当我们站在不同的时间点，这三个阶段的划分也是不一致的，以目前笔者的认知而言，划分为了：模板渲染、前后端分离与单页应用，工程化与微前端，大前端与 Serverless 这三个不同的阶段。
 
-![](https://i.postimg.cc/50xXjKN9/image.png)
+![大的阶段划分](https://i.postimg.cc/50xXjKN9/image.png)
+
+当然，每个小阶段都会伴随着新框架、新工具的出现：
+
+![不同阶段出现的框架](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/superbed/2021/07/06/60e3ed9b5132923bf8ff713f.jpg)
 
 ### 模板渲染、前后端分离与单页应用
 
