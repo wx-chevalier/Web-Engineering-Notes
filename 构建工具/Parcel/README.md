@@ -98,10 +98,10 @@ module.exports = {
     {
       calc: false,
       discardComments: {
-        removeAll: true
-      }
-    }
-  ]
+        removeAll: true,
+      },
+    },
+  ],
 };
 ```
 
@@ -120,7 +120,7 @@ module.exports = {
 
 <script>
   export default {
-    name: "app"
+    name: "app",
   };
 </script>
 
@@ -145,7 +145,7 @@ import App from "./app.vue";
 
 new Vue({
   el: "#app",
-  render: h => h(App)
+  render: (h) => h(App),
 });
 ```
 
@@ -175,7 +175,7 @@ new Vue({
       }
     </style>
     <div id="nav">
-      <h3><a href="http://ng-tech.icu/books">Books</a></h3>
+      <h3><a href="http://wx-chevalier.github.io/books">Books</a></h3>
       <span style="margin:0 8px;display:inline-block">|</span>
       <h3><a href="https://github.com/FE-Kits">FE-Kits</a></h3>
       <span style="margin:0 8px;display:inline-block">|</span>
@@ -266,7 +266,7 @@ export function render() {
   // 渲染页面
 }
 
-import("./pages/about").then(function(page) {
+import("./pages/about").then(function (page) {
   // 渲染页面
   page.render();
 });
@@ -287,7 +287,7 @@ page.render();
 // 在使用前，这些页面都不会被加载。
 const pages = {
   about: import("./pages/about"),
-  blog: import("./pages/blog")
+  blog: import("./pages/blog"),
 };
 
 async function renderPage(page) {
@@ -398,7 +398,7 @@ body {
 // base.js
 import "../css/base.less";
 
-export const baseFunc = text => {
+export const baseFunc = (text) => {
   alert(`baseFunc --- by ${text}`);
 };
 
@@ -483,12 +483,12 @@ class MyAsset extends Asset {
     return [
       {
         type: "json2",
-        value: this.contents
+        value: this.contents,
       },
       {
         type: "js",
-        value: code
-      }
+        value: code,
+      },
     ];
   }
 
@@ -532,7 +532,7 @@ module.exports = MyPackager;
 然后编写插件方法 myPlugin.js：
 
 ```js
-module.exports = function(bundler) {
+module.exports = function (bundler) {
   bundler.addAssetType(".josn2", require.resolve("./MyAsset"));
   bundler.addPackager("json2", require.resolve("./MyPackager"));
 };
@@ -568,7 +568,7 @@ const options = {
   detailedReport: args[0] === "build", // Prints a detailed report of the bundles, assets, filesizes and times, defaults to false, reports are only printed if watch is disabled
   open: true,
   port: 1234,
-  production: args[0] === "build"
+  production: args[0] === "build",
 };
 
 const runBundle = async () => {
