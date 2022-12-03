@@ -36,7 +36,9 @@
       - [5.5.5 打包部署](/构建工具/Webpack/打包部署.md)
   - [6 编码规约与协作](/编码规约与协作/README.md)
     - [6.1 DOM 与组件](/编码规约与协作/DOM%20与组件.md)
-    - [6.2 ESLint](/编码规约与协作/ESLint.md)
+    - 6.2 Lint
+      - [6.2.1 ESLint](/编码规约与协作/Lint/ESLint.md)
+      - [6.2.2 xo](/编码规约与协作/Lint/xo.md)
     - 6.3 代码仓库
       - [6.3.1 Singlerepo 与 Monorepo](/编码规约与协作/代码仓库/Singlerepo%20与%20Monorepo.md)
     - [6.4 布局与样式](/编码规约与协作/布局与样式.md)
