@@ -1,16 +1,18 @@
   - [1 INTRODUCTION](/INTRODUCTION.md)
   - [2 应用架构](/应用架构/README.md)
-    - [2.1 MPA](/应用架构/MPA/README.md)
-      - [2.1.1 Islands 架构](/应用架构/MPA/Islands%20架构/README.md)
+    - [2.1 1.MPA](/应用架构/1.MPA/README.md)
+      - [2.1.1 Islands 架构](/应用架构/1.MPA/Islands%20架构/README.md)
         
-    - [2.2 SPA](/应用架构/SPA/README.md)
-      - [2.2.1 SPA](/应用架构/SPA/SPA/README.md)
+    - [2.2 2.SPA](/应用架构/2.SPA/README.md)
+      - [2.2.1 SPA](/应用架构/2.SPA/SPA/README.md)
         
-      - [2.2.2 Virtual DOM](/应用架构/SPA/Virtual%20DOM/README.md)
-        - [2.2.2.1 Scratch](/应用架构/SPA/Virtual%20DOM/Scratch.md)
-        - [2.2.2.2 Snabbdom](/应用架构/SPA/Virtual%20DOM/Snabbdom.md)
-      - [2.2.3 现代框架的 MVVM 实现](/应用架构/SPA/现代框架的%20MVVM%20实现.md)
-      - [2.2.4 高性能 DOM 变化监听与响应](/应用架构/SPA/高性能%20DOM%20变化监听与响应.md)
+      - [2.2.2 Virtual DOM](/应用架构/2.SPA/Virtual%20DOM/README.md)
+        - [2.2.2.1 Scratch](/应用架构/2.SPA/Virtual%20DOM/Scratch.md)
+        - [2.2.2.2 Snabbdom](/应用架构/2.SPA/Virtual%20DOM/Snabbdom.md)
+      - [2.2.3 现代框架的 MVVM 实现](/应用架构/2.SPA/现代框架的%20MVVM%20实现.md)
+      - [2.2.4 高性能 DOM 变化监听与响应](/应用架构/2.SPA/高性能%20DOM%20变化监听与响应.md)
+    - 2.3 999.参考资料
+      - [2.3.1 Web Rendering Patterns](/应用架构/999.参考资料/2023-Web%20Rendering%20Patterns.md)
   - 3 设计模式
     - [3.1 Patterns.dev](/设计模式/Patterns.dev/README.md)
       - 3.1.1 Design Patterns
