@@ -35,8 +35,6 @@ function sayHello() {
 sayHello();
 ```
 
-![Node.js 应用单步调试.png]()
-
 ```js
 const Koa = require("koa");
 const app = new Koa();
@@ -51,8 +49,6 @@ app.listen(3000);
 ```sh
 $ curl localhost:3000
 ```
-
-![Koa 断点]()
 
 点击 VSCode 工具栏中的调试-打开工具，可以看到 launch.json 文件，其默认配置如下：
 
@@ -77,8 +73,6 @@ $ curl localhost:3000
 
 - 表达式：当表达式计算结果为 true 时中断；
 - 命中次数：同样当表达式计算结果为 true 时中断，支持运算符 <, <=, ==, >, >=, %。如 >10：即执行 10 次以后断点才会生效
-
-![断点编辑]()
 
 ### launch.json 调试配置
 
@@ -206,8 +200,6 @@ require('./my-typescript-code');
   ]
 }
 ```
-
-![VSCode Chrome Debugger]()
 
 # 控制台与日志
 
@@ -359,11 +351,13 @@ var car = new Car();
 ## Google Developer Tools
 
 Goggle's developer tools allow you to inspect any web page running in Chrome on Android by connecting the Android device (only 4.0 and newer) to your computer via USB. On your computer, you'll also need Chrome. To set this up, enable USB debugging on the device, and in your computer's Chrome, browse to `chrome://inspect` to discover the device. After you've allowed the desktop access on the device, you can inspect and debug any web page that is viewed in Chrome on the device.
+
 ![](https://cdn.css-tricks.com/wp-content/uploads/2015/04/remote-debug-banner.png)
 
 ## Safari
 
 This is possible for iOS as well, Safari to Safari. You also need to connect your device to the computer with USB. In the advanced Safari settings on the device, enable the option "Web Inspector". Then open Safari on your computer, and in the "Developer" menu, you'll see a list of iOS devices currently connected to your computer by cable. For each device, you'll be able to inspect and debug any web page that is being displayed in Safari.
+
 ![](https://cdn.css-tricks.com/wp-content/uploads/2015/04/tools-hero.jpg)
 
 ## Weinre
@@ -375,11 +369,12 @@ This is possible for iOS as well, Safari to Safari. You also need to connect you
 # 在 Console 快速选定 DOM 元素
 
 在 Elements 选择面板中选择某个 DOM 元素然后在 Console 中使用该元素也是非常常见的一个操作，Chrome Inspector 会缓存最后 5 个 DOM 元素在它的历史记录中，你可以用类似于 Shell 中的`$0`等方式来快速关联到元素。譬如下图的列表中有'item-4′, 'item-3', 'item-2', 'item-1', 'item-0'这几个元素，你可以这么使用：
+
 ![](https://raygun.com/blog/wp-content/uploads/2015/06/Screen-Shot-2015-06-02-at-2.04.59-pm.png)
 
 # 禁止不相关的脚本运行
 
-当我们开发现代网页的时候都会用一些第三方的框架或者库，它们几乎都是经过测试并且相对而言 Bug 较少的。不过当我们调试我们自己的脚本的时候也会一不小心跳到这些文件中，引发额外的调试任务。解决方案呢就是禁止这部分不需要调试的脚本运行，详情可见这篇文章：[: javascript-debugging-with-black-box](https://raygun.com/blog/2015/05/javascript-debugging-with-black-box/)。
+当我们开发现代网页的时候都会用一些第三方的框架或者库，它们几乎都是经过测试并且相对而言 Bug 较少的。不过当我们调试我们自己的脚本的时候也会一不小心跳到这些文件中，引发额外的调试任务。解决方案呢就是禁止这部分不需要调试的脚本运行，详情可见这篇文章：[javascript-debugging-with-black-box](https://raygun.com/blog/2015/05/javascript-debugging-with-black-box/)。
 
 # 监测指定函数的调用与参数
 
@@ -397,11 +392,13 @@ var func1 = function(x, y, z) {
 # Console 中使用\$进行元素查询
 
 在 Console 中也可以使用$来进行类似于 querySelector 那样基于 CSS 选择器的查询，$('css-selector') 会返回满足匹配的第一个元素，而\$\$('css-selector') 会返回全部匹配元素。注意，如果你会多次使用到元素，那么别忘了将它们存入变量中。
+
 ![](https://raygun.com/blog/wp-content/uploads/2015/06/Screen-Shot-2015-06-02-at-4.37.34-pm.png)
 
 # Postman
 
 很多人习惯用 Postman 进行 API 调试或者发起 Ajax 请求，不过别忘了你浏览器自带的也能做这个，并且你也不需要担心啥认证啊这些，因为 Cookie 都是自带帮你传送的，这些只要在 network 这个 tab 里就能进行，大概这样子：
+
 ![](https://raygun.com/blog/wp-content/uploads/2015/06/Screen-Shot-2015-06-02-at-5.28.31-pm.png)
 
 # DOM 变化检测
@@ -427,6 +424,7 @@ console 上述的集中度支持 printf 的占位符格式，支持的占位符�
 ```
 
 效果：
+
 ![](http://www.ido321.com/wp-content/uploads/2014/09/110.jpg)
 
 ## 信息分组
@@ -471,6 +469,7 @@ var info = {
 ```
 
 ![](http://www.ido321.com/wp-content/uploads/2014/09/43.jpg)
+
 console.assert()用来判断一个表达式或变量是否为真。如果结果为否，则在控制台输出一条相应信息，并且抛出一个异常。
 
 ```js
@@ -519,6 +518,7 @@ console.time()和 console.timeEnd()，用来显示代码的运行时间。
 ```
 
 ![](http://www.ido321.com/wp-content/uploads/2014/09/7.jpg)
+
 console.profile()的性能分析性能分析(Profiler)就是分析程序各个部分的运行时间，找出瓶颈所在，使用的方法是 console.profile()。
 
 ```js
