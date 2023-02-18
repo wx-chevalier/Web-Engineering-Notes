@@ -1,56 +1,56 @@
   - [1 INTRODUCTION](/INTRODUCTION.md)
-  - [2 应用架构](/应用架构/README.md)
-    - [2.1 1.MPA](/应用架构/1.MPA/README.md)
+  - [2 应用架构 [3]](/应用架构/README.md)
+    - [2.1 1.MPA [1]](/应用架构/1.MPA/README.md)
       - [2.1.1 Islands 架构](/应用架构/1.MPA/Islands%20架构/README.md)
         
-    - [2.2 2.SPA](/应用架构/2.SPA/README.md)
+    - [2.2 2.SPA [4]](/应用架构/2.SPA/README.md)
       - [2.2.1 SPA](/应用架构/2.SPA/SPA/README.md)
         
-      - [2.2.2 Virtual DOM](/应用架构/2.SPA/Virtual%20DOM/README.md)
+      - [2.2.2 Virtual DOM [2]](/应用架构/2.SPA/Virtual%20DOM/README.md)
         - [2.2.2.1 Scratch](/应用架构/2.SPA/Virtual%20DOM/Scratch.md)
         - [2.2.2.2 Snabbdom](/应用架构/2.SPA/Virtual%20DOM/Snabbdom.md)
       - [2.2.3 现代框架的 MVVM 实现](/应用架构/2.SPA/现代框架的%20MVVM%20实现.md)
       - [2.2.4 高性能 DOM 变化监听与响应](/应用架构/2.SPA/高性能%20DOM%20变化监听与响应.md)
-    - 2.3 999.参考资料
+    - 2.3 999.参考资料 [1]
       - [2.3.1 Web Rendering Patterns](/应用架构/999.参考资料/2023-Web%20Rendering%20Patterns.md)
-  - 3 设计模式
-    - [3.1 Patterns.dev](/设计模式/Patterns.dev/README.md)
-      - 3.1.1 Design Patterns
+  - 3 设计模式 [1]
+    - [3.1 Patterns.dev [1]](/设计模式/Patterns.dev/README.md)
+      - 3.1.1 Design Patterns [1]
         - [3.1.1.1 Singleton Pattern](/设计模式/Patterns.dev/Design%20Patterns/Singleton%20Pattern.md)
-  - [4 工程化体系](/工程化体系/README.md)
-    - 4.1 大厂实践
+  - [4 工程化体系 [3]](/工程化体系/README.md)
+    - 4.1 大厂实践 [1]
       - [4.1.1 阿里巴巴](/工程化体系/大厂实践/阿里巴巴.md)
     - [4.2 工具化与工程化](/工程化体系/工具化与工程化.md)
     - [4.3 工程化要素](/工程化体系/工程化要素.md)
-  - [5 构建工具](/构建工具/README.md)
+  - [5 构建工具 [5]](/构建工具/README.md)
     - [5.1 Gulp](/构建工具/Gulp/README.md)
       
     - [5.2 Parcel](/构建工具/Parcel/README.md)
       
     - [5.3 Snowpack](/构建工具/Snowpack/README.md)
       
-    - [5.4 Vite](/构建工具/Vite/README.md)
+    - [5.4 Vite [2]](/构建工具/Vite/README.md)
       - [5.4.1 基础配置](/构建工具/Vite/基础配置.md)
       - [5.4.2 插件开发](/构建工具/Vite/插件开发.md)
-    - [5.5 Webpack](/构建工具/Webpack/README.md)
+    - [5.5 Webpack [5]](/构建工具/Webpack/README.md)
       - [5.5.1 TreeShaking](/构建工具/Webpack/TreeShaking.md)
       - [5.5.2 内部机制](/构建工具/Webpack/内部机制.md)
       - [5.5.3 基础配置](/构建工具/Webpack/基础配置.md)
       - [5.5.4 开发环境](/构建工具/Webpack/开发环境.md)
       - [5.5.5 打包部署](/构建工具/Webpack/打包部署.md)
-  - [6 编码规约与协作](/编码规约与协作/README.md)
+  - [6 编码规约与协作 [4]](/编码规约与协作/README.md)
     - [6.1 DOM 与组件](/编码规约与协作/DOM%20与组件.md)
-    - 6.2 Lint
+    - 6.2 Lint [2]
       - [6.2.1 ESLint](/编码规约与协作/Lint/ESLint.md)
       - [6.2.2 xo](/编码规约与协作/Lint/xo.md)
-    - 6.3 代码仓库
+    - 6.3 代码仓库 [1]
       - [6.3.1 Singlerepo 与 Monorepo](/编码规约与协作/代码仓库/Singlerepo%20与%20Monorepo.md)
     - [6.4 布局与样式](/编码规约与协作/布局与样式.md)
-  - [7 调试与测试](/调试与测试/README.md)
-    - [7.1 Mock](/调试与测试/Mock/README.md)
+  - [7 调试与测试 [4]](/调试与测试/README.md)
+    - [7.1 Mock [1]](/调试与测试/Mock/README.md)
       - [7.1.1 Mock Service Worker](/调试与测试/Mock/Mock%20Service%20Worker.md)
-    - [7.2 测试框架](/调试与测试/测试框架/README.md)
-      - [7.2.1 Jest](/调试与测试/测试框架/Jest/README.md)
+    - [7.2 测试框架 [3]](/调试与测试/测试框架/README.md)
+      - [7.2.1 Jest [4]](/调试与测试/测试框架/Jest/README.md)
         - [7.2.1.1 DOM 测试](/调试与测试/测试框架/Jest/DOM%20测试.md)
         - [7.2.1.2 Mock](/调试与测试/测试框架/Jest/Mock.md)
         - [7.2.1.3 基础语法](/调试与测试/测试框架/Jest/基础语法.md)
@@ -59,45 +59,45 @@
         
       - [7.2.3 Mocha](/调试与测试/测试框架/Mocha/README.md)
         
-    - 7.3 浏览器自动化
+    - 7.3 浏览器自动化 [2]
       - [7.3.1 Headless Chrome](/调试与测试/浏览器自动化/Headless-Chrome.md)
       - [7.3.2 Puppeteer](/调试与测试/浏览器自动化/Puppeteer.md)
-    - [7.4 调试](/调试与测试/调试/README.md)
+    - [7.4 调试 [3]](/调试与测试/调试/README.md)
       - [7.4.1 JavaScript 代码调试](/调试与测试/调试/JavaScript%20代码调试.md)
       - [7.4.2 多屏幕尺寸测试](/调试与测试/调试/多屏幕尺寸测试.md)
       - [7.4.3 样式与布局调试](/调试与测试/调试/样式与布局调试.md)
-  - [8 组件化](/组件化/README.md)
+  - [8 组件化 [3]](/组件化/README.md)
     - [8.1 依赖注入](/组件化/依赖注入.md)
     - [8.2 组件规范](/组件化/组件规范.md)
     - [8.3 组件驱动开发](/组件化/组件驱动开发.md)
-  - 9 CSS 模块化
+  - 9 CSS 模块化 [3]
     - [9.1 CSS in JS](/CSS%20模块化/CSS-in-JS/README.md)
       
-    - [9.2 原子 CSS](/CSS%20模块化/原子%20CSS/README.md)
+    - [9.2 原子 CSS [1]](/CSS%20模块化/原子%20CSS/README.md)
       - [9.2.1 TailwindCSS](/CSS%20模块化/原子%20CSS/TailwindCSS.md)
-    - [9.3 约定命名](/CSS%20模块化/约定命名/README.md)
+    - [9.3 约定命名 [2]](/CSS%20模块化/约定命名/README.md)
       - [9.3.1 BEM](/CSS%20模块化/约定命名/BEM.md)
       - [9.3.2 OOCSS](/CSS%20模块化/约定命名/OOCSS.md)
-  - [10 状态管理](/状态管理/README.md)
-    - [10.1 MobX](/状态管理/MobX/README.md)
+  - [10 状态管理 [4]](/状态管理/README.md)
+    - [10.1 MobX [2]](/状态管理/MobX/README.md)
       - [10.1.1 响应式监听](/状态管理/MobX/响应式监听.md)
       - [10.1.2 底层原理与透明响应](/状态管理/MobX/底层原理与透明响应.md)
-    - [10.2 Redux](/状态管理/Redux/README.md)
-      - 10.2.1 中间件与异步
+    - [10.2 Redux [3]](/状态管理/Redux/README.md)
+      - 10.2.1 中间件与异步 [5]
         - [10.2.1.1 Observable](/状态管理/Redux/中间件与异步/Observable.md)
         - [10.2.1.2 Promise](/状态管理/Redux/中间件与异步/Promise.md)
         - [10.2.1.3 Sagas](/状态管理/Redux/中间件与异步/Sagas.md)
         - [10.2.1.4 Thunk](/状态管理/Redux/中间件与异步/Thunk.md)
         - [10.2.1.5 中间件](/状态管理/Redux/中间件与异步/中间件.md)
-      - 10.2.2 基础语法
+      - 10.2.2 基础语法 [4]
         - [10.2.2.1 Redux Scratch](/状态管理/Redux/基础语法/Redux%20Scratch.md)
         - [10.2.2.2 核心组件](/状态管理/Redux/基础语法/核心组件.md)
         - [10.2.2.3 状态树设计](/状态管理/Redux/基础语法/状态树设计.md)
         - [10.2.2.4 设计原则](/状态管理/Redux/基础语法/设计原则.md)
-      - [10.2.3 工程框架](/状态管理/Redux/工程框架/README.md)
-        - [10.2.3.1 Kea](/状态管理/Redux/工程框架/Kea/README.md)
+      - [10.2.3 工程框架 [4]](/状态管理/Redux/工程框架/README.md)
+        - [10.2.3.1 Kea [1]](/状态管理/Redux/工程框架/Kea/README.md)
           - [10.2.3.1.1 插件](/状态管理/Redux/工程框架/Kea/插件.md)
-        - [10.2.3.2 Redux Toolkit](/状态管理/Redux/工程框架/Redux%20Toolkit/README.md)
+        - [10.2.3.2 Redux Toolkit [4]](/状态管理/Redux/工程框架/Redux%20Toolkit/README.md)
           - [10.2.3.2.1 API 简化](/状态管理/Redux/工程框架/Redux%20Toolkit/API%20简化.md)
           - [10.2.3.2.2 TypeScript](/状态管理/Redux/工程框架/Redux%20Toolkit/TypeScript.md)
           - [10.2.3.2.3 异步模式](/状态管理/Redux/工程框架/Redux%20Toolkit/异步模式.md)
@@ -105,33 +105,33 @@
         - [10.2.3.3 redux actions](/状态管理/Redux/工程框架/redux-actions.md)
         - [10.2.3.4 代码组织](/状态管理/Redux/工程框架/代码组织.md)
     - [10.3 状态管理框架对比](/状态管理/状态管理框架对比.md)
-    - 10.4 设计理念
+    - 10.4 设计理念 [4]
       - [10.4.1 Flux](/状态管理/设计理念/Flux.md)
       - [10.4.2 单向数据流](/状态管理/设计理念/单向数据流.md)
       - [10.4.3 数据流驱动的界面](/状态管理/设计理念/数据流驱动的界面.md)
       - [10.4.4 渐进的状态管理](/状态管理/设计理念/渐进的状态管理.md)
-  - [11 微前端](/微前端/README.md)
+  - [11 微前端 [5]](/微前端/README.md)
     - [11.1 Module Federation](/微前端/Module%20Federation/README.md)
       
     - [11.2 代码共享与应用架构](/微前端/代码共享与应用架构.md)
     - [11.3 加载与切换](/微前端/加载与切换/README.md)
       
-    - 11.4 微前端框架
+    - 11.4 微前端框架 [3]
       - [11.4.1 EMP](/微前端/微前端框架/EMP/README.md)
         
       - [11.4.2 FrontJs](/微前端/微前端框架/FrontJs/README.md)
         
-      - [11.4.3 qiankun](/微前端/微前端框架/qiankun/README.md)
+      - [11.4.3 qiankun [3]](/微前端/微前端框架/qiankun/README.md)
         - [11.4.3.1 single spa](/微前端/微前端框架/qiankun/single-spa.md)
         - [11.4.3.2 快速开始](/微前端/微前端框架/qiankun/快速开始.md)
         - [11.4.3.3 架构机制](/微前端/微前端框架/qiankun/架构机制.md)
-    - [11.5 隔离与通信](/微前端/隔离与通信/README.md)
+    - [11.5 隔离与通信 [5]](/微前端/隔离与通信/README.md)
       - [11.5.1 JS 沙箱](/微前端/隔离与通信/JS%20沙箱.md)
       - [11.5.2 iframe](/微前端/隔离与通信/iframe.md)
       - [11.5.3 应用通信](/微前端/隔离与通信/应用通信.md)
       - [11.5.4 样式隔离](/微前端/隔离与通信/样式隔离.md)
       - [11.5.5 逻辑隔离](/微前端/隔离与通信/逻辑隔离.md)
-  - [12 主题与国际化](/主题与国际化/README.md)
+  - [12 主题与国际化 [3]](/主题与国际化/README.md)
     - [12.1 FormatJS](/主题与国际化/FormatJS.md)
     - [12.2 Internationalization API](/主题与国际化/Internationalization%20API.md)
     - [12.3 动态主题](/主题与国际化/动态主题.md)
