@@ -10,7 +10,7 @@
 
 JS 开发工具从去年开始又出现新一轮更新换代的征兆，有人把这种趋势称作 JS 的第三纪元，新范式的项目涌现，开始进入到日常业务的开发实践，很多场景下已经没有 Webpack。
 
-![构建工具的第二纪元与第三纪元](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/superbed/2021/07/06/60e3ee325132923bf8042eb1.jpg)
+![构建工具的第二纪元与第三纪元](https://assets.ng-tech.icu/superbed/2021/07/06/60e3ee325132923bf8042eb1.jpg)
 
 图中右侧的 esbuild 和 swc 这样的构建工具，把编译、构建、打包、压缩等在 Webpack 里属于不同环节的部分，合并在一起，加上非 JS 的系统编程语言的帮助，大幅提升构建速度。另一方面，也能支持 ESM 优先的、不需要打包的构建场景。Snowpack、Vite 这样的工具，在此基础上实现了开发者体验（DX）优先的、不打包（Unbundled）的开发调试模式。
 

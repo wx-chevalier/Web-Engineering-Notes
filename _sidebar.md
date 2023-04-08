@@ -107,8 +107,8 @@
         - [7.2.2.2 Snabbdom](/7.应用架构/2.SPA/Virtual%20DOM/Snabbdom.md)
       - [7.2.3 现代框架的 MVVM 实现](/7.应用架构/2.SPA/现代框架的%20MVVM%20实现.md)
       - [7.2.4 高性能 DOM 变化监听与响应](/7.应用架构/2.SPA/高性能%20DOM%20变化监听与响应.md)
-    - 7.3 999.参考资料 [1]
-      - [7.3.1 Web Rendering Patterns](/7.应用架构/999.参考资料/2023-Web%20Rendering%20Patterns.md)
+    - 7.3 99.参考资料 [1]
+      - [7.3.1 Web Rendering Patterns](/7.应用架构/99.参考资料/2023-Web%20Rendering%20Patterns.md)
     - [7.4 微前端 [5]](/7.应用架构/微前端/README.md)
       - [7.4.1 Module Federation](/7.应用架构/微前端/Module%20Federation/README.md)
         
@@ -130,8 +130,8 @@
         - [7.4.5.3 应用通信](/7.应用架构/微前端/隔离与通信/应用通信.md)
         - [7.4.5.4 样式隔离](/7.应用架构/微前端/隔离与通信/样式隔离.md)
         - [7.4.5.5 逻辑隔离](/7.应用架构/微前端/隔离与通信/逻辑隔离.md)
-  - 8 999.参考资料 [1]
-    - [8.1 Patterns.dev [1]](/999.参考资料/Patterns.dev/README.md)
+  - 8 99.参考资料 [1]
+    - [8.1 Patterns.dev [1]](/99.参考资料/Patterns.dev/README.md)
       - 8.1.1 Design Patterns [1]
-        - [8.1.1.1 Singleton Pattern](/999.参考资料/Patterns.dev/Design%20Patterns/Singleton%20Pattern.md)
+        - [8.1.1.1 Singleton Pattern](/99.参考资料/Patterns.dev/Design%20Patterns/Singleton%20Pattern.md)
   - [9 INTRODUCTION](/INTRODUCTION.md)

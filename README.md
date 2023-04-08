@@ -44,7 +44,7 @@
 
 当然，每个小阶段都会伴随着新框架、新工具的出现：
 
-![不同阶段出现的框架](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/superbed/2021/07/06/60e3ed9b5132923bf8ff713f.jpg)
+![不同阶段出现的框架](https://assets.ng-tech.icu/superbed/2021/07/06/60e3ed9b5132923bf8ff713f.jpg)
 
 ### 模板渲染、前后端分离与单页应用
 
