@@ -14,7 +14,7 @@
 
 作为著名的打包工具，Webpack 允许我们指定项目的入口地址，然后自动将用到的资源，经由 Loader 与 Plugin 的转换，打包到包体文件中在介绍具体的配置方案之前笔者想先概述下该配置文件的设计的目标，或者说是笔者认为一个前端编译环境应该达成的特性，这样以后即使 Webpack 被淘汰了也可以利用其他的譬如 JSPM 之类的来完成类似的工作。
 
-![](https://i.postimg.cc/C1FzJtXV/image.png)
+![Webpack 机制](https://assets.ng-tech.icu/item/20230416202827.png)
 
 配置级需求：
 
