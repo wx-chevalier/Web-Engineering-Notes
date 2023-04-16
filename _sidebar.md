@@ -20,9 +20,10 @@
       
     - [3.3 Snowpack](/02.构建工具/Snowpack/README.md)
       
-    - [3.4 Vite [2]](/02.构建工具/Vite/README.md)
-      - [3.4.1 基础配置](/02.构建工具/Vite/基础配置.md)
-      - [3.4.2 插件开发](/02.构建工具/Vite/插件开发.md)
+    - [3.4 Vite [3]](/02.构建工具/Vite/README.md)
+      - [3.4.1 Vite 中使用 Web Worker](/02.构建工具/Vite/Vite%20中使用%20Web%20Worker.md)
+      - [3.4.2 基础配置](/02.构建工具/Vite/基础配置.md)
+      - [3.4.3 插件开发](/02.构建工具/Vite/插件开发.md)
     - [3.5 Webpack [5]](/02.构建工具/Webpack/README.md)
       - [3.5.1 TreeShaking](/02.构建工具/Webpack/TreeShaking.md)
       - [3.5.2 内部机制](/02.构建工具/Webpack/内部机制.md)
