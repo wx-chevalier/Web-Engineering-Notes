@@ -42,4 +42,4 @@
 
 全球化一句话描述的话是指：商业决策者为产品走向全球市场而制定战略安排与规划，包括国际品牌战略、市场推广、支付、法务等一系列全球范围内的商务活动。
 
-![](https://i.postimg.cc/KvdyDrz7/image.png)
+![](https://assets.ng-tech.icu/item/20230417212417.png)

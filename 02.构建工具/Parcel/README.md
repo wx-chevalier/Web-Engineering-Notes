@@ -2,7 +2,7 @@
 
 Parcel 是 Web 应用打包工具，适用于经验不同的开发者。它利用多核处理提供了极快的速度，并且不需要任何配置。
 
-![](https://i.postimg.cc/nzKs8ryw/image.png)
+![](https://assets.ng-tech.icu/item/20230417212044.png)
 
 首先通过 Yarn 或者 npm 安装 Parcel：
 
