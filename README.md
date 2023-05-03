@@ -7,12 +7,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wx-chevalier/Web-Engineering-Series">
+  <a href="https://github.com/wx-chevalier/Web-Engineering-Notes">
     <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <a href="https://ng-tech.icu/books/Web-Engineering-Series"><strong>在线阅读 >> </strong></a>
+    <a href="https://ng-tech.icu/books/Web-Engineering-Notes"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
     <a href="https://github.com/wx-chevalier">代码实践</a>
@@ -26,7 +26,7 @@
 
 # Introduction | 前言
 
-> 本篇承接自《[Web-Series](https://github.com/wx-chevalier/Web-Series?q=)》，想要了解 Web 开发基础知识请移步。
+> 本篇承接自《[Web-Notes](https://github.com/wx-chevalier/Web-Notes?q=)》，想要了解 Web 开发基础知识请移步。
 
 回顾数十年间 Web 技术与生态的灿烂变迁，我们亲身经历着激动人心的变革，也往往会陷入选择的迷茫。随着浏览器版本的革新与硬件性能的提升，Web 前端开发进入了高歌猛进，日新月异的时代，无数的前端开发框架、技术体系争妍斗艳，让开发者们陷入困惑，乃至于无所适从。特别是随着现代 Web 前端框架（Angular、React、Vue.js）的出现，JavaScript、CSS、HTML 等语言特性的提升，工程化、跨平台、微前端、大前端、BFF 等理论概念的提出，Web 前端开发的技术栈、社区也是不断丰富完善。地位。而所谓现代化的前端工程师，他们通常需要运用大量的专业知识来解决工程化问题，包括如何将项目进行模块化，如何设计组件间的交互，如何提高可复用性，如何提升打包效率，优化浏览器渲染性能，等等；不再像以前，只需要 HTML/CSS/JS 一个套路来开发静态页面。
 
@@ -107,13 +107,13 @@ Contributions are what make the open source community such an amazing place to b
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/Web-Engineering-Series.svg?style=flat-square
-[contributors-url]: https://github.com/wx-chevalier/Web-Engineering-Series/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/Web-Engineering-Series.svg?style=flat-square
-[forks-url]: https://github.com/wx-chevalier/Web-Engineering-Series/network/members
-[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/Web-Engineering-Series.svg?style=flat-square
-[stars-url]: https://github.com/wx-chevalier/Web-Engineering-Series/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/Web-Engineering-Series.svg?style=flat-square
-[issues-url]: https://github.com/wx-chevalier/Web-Engineering-Series/issues
-[license-shield]: https://img.shields.io/github/license/wx-chevalier/Web-Engineering-Series.svg?style=flat-square
-[license-url]: https://github.com/wx-chevalier/Web-Engineering-Series/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/Web-Engineering-Notes.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/Web-Engineering-Notes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/Web-Engineering-Notes.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/Web-Engineering-Notes/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/Web-Engineering-Notes.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/Web-Engineering-Notes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/Web-Engineering-Notes.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/Web-Engineering-Notes/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/Web-Engineering-Notes.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/Web-Engineering-Notes/blob/master/LICENSE.txt
