@@ -2,7 +2,7 @@
 
 Kea 是用于构建复杂 React 应用的生产级别的状态管理框架。随着应用程序的增长，它可以很好地扩展，并有助于保持状态整洁。
 
-![Kea 架构](https://i.postimg.cc/cHBmwhQq/image.png)
+![Kea 架构](https://assets.ng-tech.icu/item/20230513201707.png)
 
 Kea 建立在 Redux 之上，并利用其基本功能原理：
 

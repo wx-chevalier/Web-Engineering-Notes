@@ -107,17 +107,18 @@
       - [7.4.2 多屏幕尺寸测试](/06.调试与测试/调试/多屏幕尺寸测试.md)
       - [7.4.3 样式与布局调试](/06.调试与测试/调试/样式与布局调试.md)
   - [8 07.应用架构 [4]](/07.应用架构/README.md)
-    - [8.1 1.MPA [1]](/07.应用架构/1.MPA/README.md)
-      - [8.1.1 Islands 架构](/07.应用架构/1.MPA/Islands%20架构/README.md)
+    - [8.1 01.MPA [1]](/07.应用架构/01.MPA/README.md)
+      - [8.1.1 Islands 架构](/07.应用架构/01.MPA/Islands%20架构/README.md)
         
-    - [8.2 2.SPA [4]](/07.应用架构/2.SPA/README.md)
-      - [8.2.1 SPA](/07.应用架构/2.SPA/SPA/README.md)
+    - [8.2 02.SPA [4]](/07.应用架构/02.SPA/README.md)
+      - [8.2.1 SPA](/07.应用架构/02.SPA/SPA/README.md)
         
-      - [8.2.2 Virtual DOM [2]](/07.应用架构/2.SPA/Virtual%20DOM/README.md)
-        - [8.2.2.1 Scratch](/07.应用架构/2.SPA/Virtual%20DOM/Scratch.md)
-        - [8.2.2.2 Snabbdom](/07.应用架构/2.SPA/Virtual%20DOM/Snabbdom.md)
-      - [8.2.3 现代框架的 MVVM 实现](/07.应用架构/2.SPA/现代框架的%20MVVM%20实现.md)
-      - [8.2.4 高性能 DOM 变化监听与响应](/07.应用架构/2.SPA/高性能%20DOM%20变化监听与响应.md)
+      - [8.2.2 Virtual DOM [2]](/07.应用架构/02.SPA/Virtual%20DOM/README.md)
+        - [8.2.2.1 Snabbdom](/07.应用架构/02.SPA/Virtual%20DOM/Snabbdom.md)
+        - [8.2.2.2 从零构建简单的 Virtual DOM 库](/07.应用架构/02.SPA/Virtual%20DOM/从零构建简单的%20Virtual%20DOM%20库/README.md)
+          
+      - [8.2.3 现代框架的 MVVM 实现](/07.应用架构/02.SPA/现代框架的%20MVVM%20实现.md)
+      - [8.2.4 高性能 DOM 变化监听与响应](/07.应用架构/02.SPA/高性能%20DOM%20变化监听与响应.md)
     - 8.3 99.参考资料 [1]
       - [8.3.1 Web Rendering Patterns](/07.应用架构/99.参考资料/2023-Web%20Rendering%20Patterns.md)
     - [8.4 微前端 [5]](/07.应用架构/微前端/README.md)

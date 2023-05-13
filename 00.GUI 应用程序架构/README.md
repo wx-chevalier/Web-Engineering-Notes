@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/JnFfmhFf/image.png)
+![](https://assets.ng-tech.icu/item/20230513202415.png)
 
 # GUI 应用程序架构
 
@@ -8,7 +8,7 @@ Graphical User Interfaces 一直是软件开发领域的重要组成部分，从
 
 GUI 架构核心即是对于对于富客户端的**代码组织/职责划分**。纵览这十年内的架构模式变迁，大概可以分为 `MV*` 与 Unidirectional 两大类，而 Clean Architecture 则是以严格的层次划分独辟蹊径。从笔者的认知来看，从 MVC 到 MVP 的变迁完成了对于 View 与 Model 的解耦合，改进了职责分配与可测试性。而从 MVP 到 MVVM，添加了 View 与 ViewModel 之间的数据绑定，使得 View 完全的无状态化。最后，整个从 `MV*` 到 Unidirectional 的变迁即是采用了消息队列式的数据流驱动的架构，并且以 Redux 为代表的方案将原本 `MV*` 中碎片化的状态管理变为了统一的状态管理，保证了状态的有序性与可回溯性。
 
-![](https://i.postimg.cc/tTs5SKXy/image.png)
+![](https://assets.ng-tech.icu/item/20230513202341.png)
 
 # 架构思维
 
