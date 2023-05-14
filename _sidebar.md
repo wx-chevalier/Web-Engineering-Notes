@@ -113,9 +113,11 @@
     - [8.2 02.SPA [4]](/07.应用架构/02.SPA/README.md)
       - [8.2.1 SPA](/07.应用架构/02.SPA/SPA/README.md)
         
-      - [8.2.2 Virtual DOM [2]](/07.应用架构/02.SPA/Virtual%20DOM/README.md)
-        - [8.2.2.1 Snabbdom](/07.应用架构/02.SPA/Virtual%20DOM/Snabbdom.md)
-        - [8.2.2.2 从零构建简单的 Virtual DOM 库](/07.应用架构/02.SPA/Virtual%20DOM/从零构建简单的%20Virtual%20DOM%20库/README.md)
+      - [8.2.2 Virtual DOM [3]](/07.应用架构/02.SPA/Virtual%20DOM/README.md)
+        - 8.2.2.1 99.参考资料 [1]
+          - [8.2.2.1.1 深入理解虚拟 DOM，它真的不快](/07.应用架构/02.SPA/Virtual%20DOM/99.参考资料/2018-深入理解虚拟%20DOM，它真的不快.md)
+        - [8.2.2.2 Snabbdom](/07.应用架构/02.SPA/Virtual%20DOM/Snabbdom.md)
+        - [8.2.2.3 从零构建简单的 Virtual DOM 库](/07.应用架构/02.SPA/Virtual%20DOM/从零构建简单的%20Virtual%20DOM%20库/README.md)
           
       - [8.2.3 现代框架的 MVVM 实现](/07.应用架构/02.SPA/现代框架的%20MVVM%20实现.md)
       - [8.2.4 高性能 DOM 变化监听与响应](/07.应用架构/02.SPA/高性能%20DOM%20变化监听与响应.md)
