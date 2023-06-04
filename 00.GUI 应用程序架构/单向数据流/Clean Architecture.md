@@ -1,6 +1,6 @@
 # Clean Architecture
 
-![](http://luboganev.github.io/images/2015-07-23-clean-architecture-pt2/CleanArchitecture.jpg)
+![](https://assets.ng-tech.icu/item/CleanArchitecture.jpg)
 
 Uncle Bob 提出 Clean Architecture 最早并不是专门面向于 GUI 应用程序，而是描述了一种用于构建可扩展、可测试软件系统的概要原则。Clean Architecture 可能运用于构建网站、Web 应用、桌面应用以及移动应用等不同领域场景的软件开发中。其定义的基本原则保证了关注点分离以及整个软件项目的模块性与可组织性，也就是我们在上文提及的 GUI 应用程序架构中所需要考量的点。Clean Architecture 中最基础的理论当属所谓的依赖原则(Dependency Rule)，在依赖洋葱图中的任一内层模块不应该了解或依赖于任何外层模块。换言之，我们定义在外层模块中的代码不应该被内层模块所引入，包括变量、函数、类等等任何的软件实体。
 
