@@ -363,7 +363,7 @@ const { vnode, container } = mountWithHydration(html, () =>
 );
 ```
 
-总之， VitePress 利用 Vue 的编译时优化以及内部定制的 Hydrate 方案足以解决传统 SSG 的全量 hydration 问题，采用 Islands 架构意义并不大。
+总之，VitePress 利用 Vue 的编译时优化以及内部定制的 Hydrate 方案足以解决传统 SSG 的全量 hydration 问题，采用 Islands 架构意义并不大。
 
 那进一步讲，像 Vue 这种 Shell 优化方案对于包含编译时的前端框架是否通用？这里我们可以先大概总结出 Shell 方案需要满足的条件:
 
