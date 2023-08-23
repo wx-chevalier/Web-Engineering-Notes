@@ -1,13 +1,13 @@
-  - [1 00.GUI 应用程序架构 [3]](/00.GUI%20应用程序架构/README.md)
-    - [1.1 单向数据流 [2]](/00.GUI%20应用程序架构/单向数据流/README.md)
-      - [1.1.1 Clean Architecture](/00.GUI%20应用程序架构/单向数据流/Clean%20Architecture.md)
-      - [1.1.2 Flux](/00.GUI%20应用程序架构/单向数据流/Flux.md)
-    - [1.2 双向数据流 [3]](/00.GUI%20应用程序架构/双向数据流/README.md)
-      - [1.2.1 MVC](/00.GUI%20应用程序架构/双向数据流/MVC.md)
-      - [1.2.2 MVP](/00.GUI%20应用程序架构/双向数据流/MVP.md)
-      - [1.2.3 MVVM](/00.GUI%20应用程序架构/双向数据流/MVVM.md)
-    - [1.3 组件化 [1]](/00.GUI%20应用程序架构/组件化/README.md)
-      - [1.3.1 Atomic Design](/00.GUI%20应用程序架构/组件化/Atomic%20Design.md)
+  - [1 00~GUI 应用程序架构 [3]](/00~GUI%20应用程序架构/README.md)
+    - [1.1 单向数据流 [2]](/00~GUI%20应用程序架构/单向数据流/README.md)
+      - [1.1.1 Clean Architecture](/00~GUI%20应用程序架构/单向数据流/Clean%20Architecture.md)
+      - [1.1.2 Flux](/00~GUI%20应用程序架构/单向数据流/Flux.md)
+    - [1.2 双向数据流 [3]](/00~GUI%20应用程序架构/双向数据流/README.md)
+      - [1.2.1 MVC](/00~GUI%20应用程序架构/双向数据流/MVC.md)
+      - [1.2.2 MVP](/00~GUI%20应用程序架构/双向数据流/MVP.md)
+      - [1.2.3 MVVM](/00~GUI%20应用程序架构/双向数据流/MVVM.md)
+    - [1.3 组件化 [1]](/00~GUI%20应用程序架构/组件化/README.md)
+      - [1.3.1 Atomic Design](/00~GUI%20应用程序架构/组件化/Atomic%20Design.md)
   - [2 01.工程化体系 [3]](/01.工程化体系/README.md)
     - 2.1 大厂实践 [1]
       - [2.1.1 阿里巴巴](/01.工程化体系/大厂实践/阿里巴巴.md)
@@ -109,21 +109,21 @@
   - [8 07.应用架构 [4]](/07.应用架构/README.md)
     - [8.1 01.MPA [1]](/07.应用架构/01.MPA/README.md)
       - [8.1.1 Islands 架构 [1]](/07.应用架构/01.MPA/Islands%20架构/README.md)
-        - 8.1.1.1 99.参考资料 [1]
-          - [8.1.1.1.1 Islands 架构原理和实践](/07.应用架构/01.MPA/Islands%20架构/99.参考资料/2022-Islands%20架构原理和实践.md)
+        - 8.1.1.1 99~参考资料 [1]
+          - [8.1.1.1.1 Islands 架构原理和实践](/07.应用架构/01.MPA/Islands%20架构/99~参考资料/2022-Islands%20架构原理和实践.md)
     - [8.2 02.SPA [4]](/07.应用架构/02.SPA/README.md)
       - [8.2.1 SPA](/07.应用架构/02.SPA/SPA/README.md)
         
       - [8.2.2 Virtual DOM [3]](/07.应用架构/02.SPA/Virtual%20DOM/README.md)
-        - 8.2.2.1 99.参考资料 [1]
-          - [8.2.2.1.1 深入理解虚拟 DOM，它真的不快](/07.应用架构/02.SPA/Virtual%20DOM/99.参考资料/2018-深入理解虚拟%20DOM，它真的不快.md)
+        - 8.2.2.1 99~参考资料 [1]
+          - [8.2.2.1.1 深入理解虚拟 DOM，它真的不快](/07.应用架构/02.SPA/Virtual%20DOM/99~参考资料/2018-深入理解虚拟%20DOM，它真的不快.md)
         - [8.2.2.2 Snabbdom](/07.应用架构/02.SPA/Virtual%20DOM/Snabbdom.md)
         - [8.2.2.3 从零构建简单的 Virtual DOM 库](/07.应用架构/02.SPA/Virtual%20DOM/从零构建简单的%20Virtual%20DOM%20库/README.md)
           
       - [8.2.3 现代框架的 MVVM 实现](/07.应用架构/02.SPA/现代框架的%20MVVM%20实现.md)
       - [8.2.4 高性能 DOM 变化监听与响应](/07.应用架构/02.SPA/高性能%20DOM%20变化监听与响应.md)
-    - 8.3 99.参考资料 [1]
-      - [8.3.1 Web Rendering Patterns](/07.应用架构/99.参考资料/2023-Web%20Rendering%20Patterns.md)
+    - 8.3 99~参考资料 [1]
+      - [8.3.1 Web Rendering Patterns](/07.应用架构/99~参考资料/2023-Web%20Rendering%20Patterns.md)
     - [8.4 微前端 [5]](/07.应用架构/微前端/README.md)
       - [8.4.1 Module Federation](/07.应用架构/微前端/Module%20Federation/README.md)
         
@@ -145,8 +145,8 @@
         - [8.4.5.3 应用通信](/07.应用架构/微前端/隔离与通信/应用通信.md)
         - [8.4.5.4 样式隔离](/07.应用架构/微前端/隔离与通信/样式隔离.md)
         - [8.4.5.5 逻辑隔离](/07.应用架构/微前端/隔离与通信/逻辑隔离.md)
-  - 9 99.参考资料 [1]
-    - [9.1 Patterns.dev [1]](/99.参考资料/Patterns.dev/README.md)
+  - 9 99~参考资料 [1]
+    - [9.1 Patterns.dev [1]](/99~参考资料/Patterns.dev/README.md)
       - 9.1.1 Design Patterns [1]
-        - [9.1.1.1 Singleton Pattern](/99.参考资料/Patterns.dev/Design%20Patterns/Singleton%20Pattern.md)
+        - [9.1.1.1 Singleton Pattern](/99~参考资料/Patterns.dev/Design%20Patterns/Singleton%20Pattern.md)
   - [10 INTRODUCTION](/INTRODUCTION.md)
