@@ -145,8 +145,11 @@
         - [8.4.5.3 应用通信](/07~应用架构/微前端/隔离与通信/应用通信.md)
         - [8.4.5.4 样式隔离](/07~应用架构/微前端/隔离与通信/样式隔离.md)
         - [8.4.5.5 逻辑隔离](/07~应用架构/微前端/隔离与通信/逻辑隔离.md)
-  - 9 99~参考资料 [1]
-    - [9.1 Patterns.dev [1]](/99~参考资料/Patterns.dev/README.md)
-      - 9.1.1 Design Patterns [1]
-        - [9.1.1.1 Singleton Pattern](/99~参考资料/Patterns.dev/Design%20Patterns/Singleton%20Pattern.md)
-  - [10 INTRODUCTION](/INTRODUCTION.md)
+  - 9 10~设计系统 [1]
+    - 9.1 99~参考资料 [1]
+      - [9.1.1 2023~the design system ecosystem](/10~设计系统/99~参考资料/2023~the%20design%20system%20ecosystem.md)
+  - 10 99~参考资料 [1]
+    - [10.1 Patterns.dev [1]](/99~参考资料/Patterns.dev/README.md)
+      - 10.1.1 Design Patterns [1]
+        - [10.1.1.1 Singleton Pattern](/99~参考资料/Patterns.dev/Design%20Patterns/Singleton%20Pattern.md)
+  - [11 INTRODUCTION](/INTRODUCTION.md)
